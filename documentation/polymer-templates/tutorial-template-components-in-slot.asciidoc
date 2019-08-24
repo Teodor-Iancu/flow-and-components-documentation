@@ -1,3 +1,6 @@
+
+Typo in Menu title "Using the Element in a PolymerTemplate" should be "Using the <slot> Element in a PolymerTemplate"
+
 ---
 title: Using the <slot> Element in a Polymer Template
 order: 4
